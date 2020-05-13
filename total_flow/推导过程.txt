@@ -1,0 +1,137 @@
+1		#5B		vm(){ai=c;ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#		A->B5
+2		#5}E{)D(XC		vm(){ai=c;ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#		B->CX(D){E}
+3		#5}E{)D(Xv		vm(){ai=c;ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#		C->v
+4		#5}E{)D(X		m(){ai=c;ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#
+5		#5}E{)D(m		m(){ai=c;ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#		X->m
+6		#5}E{)D(		(){ai=c;ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#
+7		#5}E{)D		){ai=c;ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#
+8		#5}E{)		){ai=c;ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#		D->~
+9		#5}E{		{ai=c;ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#
+10		#5}E		ai=c;ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#
+11		#5}EY		ai=c;ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#		E->YE
+12		#5}EG		ai=c;ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#		Y->G
+13		#5}Ea		ai=c;ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#		G->a
+14		#5}E		i=c;ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#
+15		#5}EY		i=c;ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#		E->YE
+16		#5}EK		i=c;ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#		Y->K
+17		#5}E1i		i=c;ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#		K->i1
+18		#5}E1		=c;ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#
+19		#5}E;Z=		=c;ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#		1->=Z;
+20		#5}E;Z		c;ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#
+21		#5}E;2M		c;ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#		Z->M2
+22		#5}E;2N		c;ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#		M->N
+23		#5}E;2O		c;ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#		N->O
+24		#5}E;2c		c;ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#		O->c
+25		#5}E;2		;ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#
+26		#5}E;		;ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#		2->~
+27		#5}E		ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#
+28		#5}EY		ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#		E->YE
+29		#5}EG		ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#		Y->G
+30		#5}Ea		ai=c;ai=c;w(iji){i=i+i;il;il;}ri;}#		G->a
+31		#5}E		i=c;ai=c;w(iji){i=i+i;il;il;}ri;}#
+32		#5}EY		i=c;ai=c;w(iji){i=i+i;il;il;}ri;}#		E->YE
+33		#5}EK		i=c;ai=c;w(iji){i=i+i;il;il;}ri;}#		Y->K
+34		#5}E1i		i=c;ai=c;w(iji){i=i+i;il;il;}ri;}#		K->i1
+35		#5}E1		=c;ai=c;w(iji){i=i+i;il;il;}ri;}#
+36		#5}E;Z=		=c;ai=c;w(iji){i=i+i;il;il;}ri;}#		1->=Z;
+37		#5}E;Z		c;ai=c;w(iji){i=i+i;il;il;}ri;}#
+38		#5}E;2M		c;ai=c;w(iji){i=i+i;il;il;}ri;}#		Z->M2
+39		#5}E;2N		c;ai=c;w(iji){i=i+i;il;il;}ri;}#		M->N
+40		#5}E;2O		c;ai=c;w(iji){i=i+i;il;il;}ri;}#		N->O
+41		#5}E;2c		c;ai=c;w(iji){i=i+i;il;il;}ri;}#		O->c
+42		#5}E;2		;ai=c;w(iji){i=i+i;il;il;}ri;}#
+43		#5}E;		;ai=c;w(iji){i=i+i;il;il;}ri;}#		2->~
+44		#5}E		ai=c;w(iji){i=i+i;il;il;}ri;}#
+45		#5}EY		ai=c;w(iji){i=i+i;il;il;}ri;}#		E->YE
+46		#5}EG		ai=c;w(iji){i=i+i;il;il;}ri;}#		Y->G
+47		#5}Ea		ai=c;w(iji){i=i+i;il;il;}ri;}#		G->a
+48		#5}E		i=c;w(iji){i=i+i;il;il;}ri;}#
+49		#5}EY		i=c;w(iji){i=i+i;il;il;}ri;}#		E->YE
+50		#5}EK		i=c;w(iji){i=i+i;il;il;}ri;}#		Y->K
+51		#5}E1i		i=c;w(iji){i=i+i;il;il;}ri;}#		K->i1
+52		#5}E1		=c;w(iji){i=i+i;il;il;}ri;}#
+53		#5}E;Z=		=c;w(iji){i=i+i;il;il;}ri;}#		1->=Z;
+54		#5}E;Z		c;w(iji){i=i+i;il;il;}ri;}#
+55		#5}E;2M		c;w(iji){i=i+i;il;il;}ri;}#		Z->M2
+56		#5}E;2N		c;w(iji){i=i+i;il;il;}ri;}#		M->N
+57		#5}E;2O		c;w(iji){i=i+i;il;il;}ri;}#		N->O
+58		#5}E;2c		c;w(iji){i=i+i;il;il;}ri;}#		O->c
+59		#5}E;2		;w(iji){i=i+i;il;il;}ri;}#
+60		#5}E;		;w(iji){i=i+i;il;il;}ri;}#		2->~
+61		#5}E		w(iji){i=i+i;il;il;}ri;}#
+62		#5}EY		w(iji){i=i+i;il;il;}ri;}#		E->YE
+63		#5}EG		w(iji){i=i+i;il;il;}ri;}#		Y->G
+64		#5}EW		w(iji){i=i+i;il;il;}ri;}#		G->W
+65		#5}EVUw		w(iji){i=i+i;il;il;}ri;}#		W->wUV
+66		#5}EVU		(iji){i=i+i;il;il;}ri;}#
+67		#5}EV)P(		(iji){i=i+i;il;il;}ri;}#		U->(P)
+68		#5}EV)P		iji){i=i+i;il;il;}ri;}#
+69		#5}EV)N4N		iji){i=i+i;il;il;}ri;}#		P->N4N
+70		#5}EV)N4X		iji){i=i+i;il;il;}ri;}#		N->X
+71		#5}EV)N4i		iji){i=i+i;il;il;}ri;}#		X->i
+72		#5}EV)N4		ji){i=i+i;il;il;}ri;}#
+73		#5}EV)Nj		ji){i=i+i;il;il;}ri;}#		4->j
+74		#5}EV)N		i){i=i+i;il;il;}ri;}#
+75		#5}EV)X		i){i=i+i;il;il;}ri;}#		N->X
+76		#5}EV)i		i){i=i+i;il;il;}ri;}#		X->i
+77		#5}EV)		){i=i+i;il;il;}ri;}#
+78		#5}EV		{i=i+i;il;il;}ri;}#
+79		#5}E}E{		{i=i+i;il;il;}ri;}#		V->{E}
+80		#5}E}E		i=i+i;il;il;}ri;}#
+81		#5}E}EY		i=i+i;il;il;}ri;}#		E->YE
+82		#5}E}EK		i=i+i;il;il;}ri;}#		Y->K
+83		#5}E}E1i		i=i+i;il;il;}ri;}#		K->i1
+84		#5}E}E1		=i+i;il;il;}ri;}#
+85		#5}E}E;Z=		=i+i;il;il;}ri;}#		1->=Z;
+86		#5}E}E;Z		i+i;il;il;}ri;}#
+87		#5}E}E;2M		i+i;il;il;}ri;}#		Z->M2
+88		#5}E}E;2N		i+i;il;il;}ri;}#		M->N
+89		#5}E}E;2X		i+i;il;il;}ri;}#		N->X
+90		#5}E}E;2i		i+i;il;il;}ri;}#		X->i
+91		#5}E}E;2		+i;il;il;}ri;}#
+92		#5}E}E;3+		+i;il;il;}ri;}#		2->+3
+93		#5}E}E;3		i;il;il;}ri;}#
+94		#5}E}E;2M		i;il;il;}ri;}#		3->M2
+95		#5}E}E;2N		i;il;il;}ri;}#		M->N
+96		#5}E}E;2X		i;il;il;}ri;}#		N->X
+97		#5}E}E;2i		i;il;il;}ri;}#		X->i
+98		#5}E}E;2		;il;il;}ri;}#
+99		#5}E}E;		;il;il;}ri;}#		2->~
+100		#5}E}E		il;il;}ri;}#
+101		#5}E}EY		il;il;}ri;}#		E->YE
+102		#5}E}EK		il;il;}ri;}#		Y->K
+103		#5}E}E1i		il;il;}ri;}#		K->i1
+104		#5}E}E1		l;il;}ri;}#
+105		#5}E}El		l;il;}ri;}#		1->l
+106		#5}E}E		;il;}ri;}#
+107		#5}E}EY		;il;}ri;}#		E->YE
+108		#5}E}EH		;il;}ri;}#		Y->H
+109		#5}E}E;		;il;}ri;}#		H->;
+110		#5}E}E		il;}ri;}#
+111		#5}E}EY		il;}ri;}#		E->YE
+112		#5}E}EK		il;}ri;}#		Y->K
+113		#5}E}E1i		il;}ri;}#		K->i1
+114		#5}E}E1		l;}ri;}#
+115		#5}E}El		l;}ri;}#		1->l
+116		#5}E}E		;}ri;}#
+117		#5}E}EY		;}ri;}#		E->YE
+118		#5}E}EH		;}ri;}#		Y->H
+119		#5}E}E;		;}ri;}#		H->;
+120		#5}E}E		}ri;}#
+121		#5}E}		}ri;}#		E->~
+122		#5}E		ri;}#
+123		#5}EY		ri;}#		E->YE
+124		#5}EG		ri;}#		Y->G
+125		#5}ES		ri;}#		G->S
+126		#5}E;Zr		ri;}#		S->rZ;
+127		#5}E;Z		i;}#
+128		#5}E;2M		i;}#		Z->M2
+129		#5}E;2N		i;}#		M->N
+130		#5}E;2X		i;}#		N->X
+131		#5}E;2i		i;}#		X->i
+132		#5}E;2		;}#
+133		#5}E;		;}#		2->~
+134		#5}E		}#
+135		#5}		}#		E->~
+136		#5		#
+137		#		#		5->~
